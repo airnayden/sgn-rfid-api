@@ -70,3 +70,4 @@ Response:
 1. Better error handling - add separate exception classes with appropriate error codes (`500`, `422`, `409`, `404`)
 2. Router
 3. CRUD for buildings / departments / employees
+4. Use FAKER for generating random employees | buildings | departments for demo data, rather than having them hardcoded in a .json file
